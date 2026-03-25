@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=BlGSHOT&label=PIPISES)
 
-<img width="500" height="500" alt="equi-removebg-preview" src="https://github.com/user-attachments/assets/a7887aa3-0f4c-4754-89ad-efd82ccbc544" />
+![image](https://github.com/user-attachments/assets/01c19373-7440-495b-a7e2-5233a700a562)
+
 
 
 
