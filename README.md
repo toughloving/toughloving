@@ -5,7 +5,7 @@
 
 
 
-[D --> Click here for absolutely nothing](https://rentry.co/spiralsands)
+[PRESS the BUTTON, you PETULANT PEON.](https://rentry.co/spiralsands)
 
 <!---
 toughloving/toughloving is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
