@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=BlGSHOT&label=PIPISES)
+![](https://komarev.com/ghpvc/?username=agamemnonsTheory&label=PAWNS)
 
 ![image](https://github.com/user-attachments/assets/01c19373-7440-495b-a7e2-5233a700a562)
 
