@@ -1,4 +1,9 @@
-![](https://komarev.com/ghpvc/?username=weakflowers&label=princesses&color=yellowgreen&style=for-the-badge)
+
+
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=weakflowers&label=princesses&color=yellowgreen&style=for-the-badge"> </a>
+</div>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/51537534-8d9e-49c0-acf4-5b1d87a5333e" alt="Centered Image" width="200" height="150">
