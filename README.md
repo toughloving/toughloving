@@ -8,9 +8,10 @@
 
 
 
-<p align="center">
-  [try my flavor!](https://rentry.co/spiralsands)
-</p>
+<div align="center">
+  <a href="https://rentry.co/spiralsands">try my flavor!</a>
+</div>
+
 
 
 
