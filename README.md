@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=weakflowers&label=flowers)
+![](https://komarev.com/ghpvc/?username=weakflowers&label=flowers&color=yellowgreen)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/51537534-8d9e-49c0-acf4-5b1d87a5333e" alt="Centered Image" width="200" height="150">
