@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/51537534-8d9e-49c0-acf4-5b1d87a5333e" alt="Centered Image" width="200" height="150">
 </p>
 
-<p align="center">flowery  /  mika</p>
+<p align="center">$\color{olive}\textsf{flowery\ /\ mika}$</p>
 
 <div align="center">
   <a href="https://rentry.co/spiralsands">try my flavor!</a>
