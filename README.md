@@ -1,11 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=agamemnonsTheory&label=PAWNS)
 
-![image](https://github.com/user-attachments/assets/01c19373-7440-495b-a7e2-5233a700a562)
+<img width="500" height="444" alt="image" src="https://github.com/user-attachments/assets/51537534-8d9e-49c0-acf4-5b1d87a5333e" />
 
 
 
 
-[PRESS the BUTTON, you PETULANT PEON.](https://rentry.co/spiralsands)
+
+[try my flavor!](https://rentry.co/spiralsands)
 
 <!---
 toughloving/toughloving is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
