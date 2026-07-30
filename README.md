@@ -8,7 +8,8 @@
 
 
 
-[try my flavor!](https://rentry.co/spiralsands)
+<p align="center">[try my flavor!](https://rentry.co/spiralsands)</p>
+
 
 <!---
 toughloving/toughloving is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
