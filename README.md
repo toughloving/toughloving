@@ -8,7 +8,7 @@
 <p align="center">$\color{olive}\textsf{flowery\ /\ mika}$</p>
 
 <div align="center">
-  <a href="https://rentry.co/spiralsands">try my flavor!</a>
+  <a href="https://rentry.co/spiralsands">$\color{olive}\textsf{try\ my\ flavor!}$</a>
 </div>
 
 
