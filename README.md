@@ -8,7 +8,7 @@
 <p align="center">$\color{olive}\textsf{flowery\ /\ mika}$</p>
 
 <div align="center">
-  <a href="https://rentry.co/transientwinds">❁</a> <a href="https://weakflowers.atabook.org/">❁</a>
+  <a href="https://rentry.co/transientwinds">❁</a> <a href="https://weakflowers.atabook.org/">❁</a> <a href="https://github.com/pt-walk-of-fame">❁</a>
 </div>
 
 
